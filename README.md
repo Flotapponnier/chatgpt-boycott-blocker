@@ -12,7 +12,7 @@ This plugin is a small way to support Anthropic in addressing the ethical challe
 1. Go to `chrome://extensions/`
 2. Enable "Developer mode"
 3. Click "Load unpacked"
-4. Select the `chatgpt_boycott-blocker` folder (this repo)
+4. Select the `chatgpt-boycott-blocker` folder (this repo)
 
 ### Firefox
 1. Go to `about:debugging#/runtime/this-firefox`
